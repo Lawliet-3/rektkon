@@ -9,3 +9,4 @@ scikit-learn==1.7.0
 dvc==3.60.1
 pytest==8.4.1
 httpx==0.28.1
+evidently==0.6.7
