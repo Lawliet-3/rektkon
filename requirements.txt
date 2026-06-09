@@ -1,0 +1,11 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+prometheus-client==0.23.1
+mlflow==3.1.1
+xgboost==3.0.2
+pandas==2.3.0
+numpy==2.3.0
+scikit-learn==1.7.0
+dvc==3.60.1
+pytest==8.4.1
+httpx==0.28.1
